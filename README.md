@@ -1,4 +1,4 @@
-# CSE 151B Competition Submission
+# Qwen 3 Inference
 
 ## Summary
 - Model: `Qwen/Qwen3-4B-Thinking-2507`
